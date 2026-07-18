@@ -39,7 +39,7 @@ body{
     background-color: rgb(231, 237, 208);
 }
 .card{
-    border: 1px solid black;
+    border: 1px solid whitesmoke;
     width: 350px;
     border-radius: 30px;
     text-align: center;
@@ -50,12 +50,14 @@ body{
     margin-right: auto;
     padding-bottom: 20px;
     background-color: white;
+    box-shadow: 0px 0px 10px 0px gray;
 }
 
 .card img{
     /* width: 300px; */
     width: 100%;
-}.card button{
+}
+.card button{
     border-style: none;
     padding: 10px;
     width: 80%;
