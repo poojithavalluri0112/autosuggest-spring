@@ -27,4 +27,8 @@ h1 {
     padding: 20px;
     text-decoration: none;
     color: black;
+} 
+.navbar a:hover{
+    color: purple;
+    background-color: lightgray;
 }
